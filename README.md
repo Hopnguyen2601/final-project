@@ -1,11 +1,7 @@
 # final-project
 
-## Name: Fashion store
+## Team size:
 
-## Name: Fashion store
-
-## Name: Fashion store
-
-## Name: Fashion store
-
-## Name: Fashion store
+    - Thanh
+    - Hau
+    - Hop
