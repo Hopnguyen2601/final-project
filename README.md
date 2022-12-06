@@ -4,3 +4,7 @@
 
     - Thanh
     - Hau
+
+## technical
+
+- react
